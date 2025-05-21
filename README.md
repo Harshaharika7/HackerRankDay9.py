@@ -51,6 +51,12 @@ Option 2: Manual input Just run: python3 recursion.py
 
 HackerRank - Day 9: Recursion 3 
 
+🏅 HackerRank Score
+
+✅ Challenge Completed
+
+🏆 Points Earned: 30
+
 ### 📅 Completed On:
 
 20th May 2025
